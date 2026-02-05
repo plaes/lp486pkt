@@ -1,0 +1,21 @@
+lp486pkt - Packet Driver for Intel i82596
+=========================================
+
+Packet Driver for Intel Professional Workstation's On-board Ethernet Controller.
+
+82596CA High-Performance 32-Bit Local Area Network Coprocessor
+--------------------------------------------------------------
+
+The 82596CA is an intelligent, high-performance 32-bit Local Area Network
+coprocessor. The 82596CA implements the CSMA/CD access method and can be
+configured to support all existing IEEE 802.3 standards - TYPEs 10BASE-T,
+10BASE5, 10BASE2, 1BASE5, and 10BROAD36. It can also be used to implement the
+proposed standard TYPE 10BASE-F. The 82596CA performs high-level commands,
+command chaining, and interprocessor communications via shared memory, thus
+relieving the host CPU of many tasks associated with network control. All
+time-critical functions are performed independently of the CPU, this increases
+network performance and efficiency. The 82596CA bus interface is optimized for
+Intel's i486(TM) SX, i486(TM) DX, i487(TM) SX, 80960CA, and 80960KB processors.
+
+Documentation was available from Intel's Developers' Insight CD-ROM:
+* [29021806.PDF](./29021806.PDF)
