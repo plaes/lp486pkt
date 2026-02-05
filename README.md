@@ -20,3 +20,6 @@ Intel's i486(TM) SX, i486(TM) DX, i487(TM) SX, 80960CA, and 80960KB processors.
 
 Documentation was available from Intel's Developers' Insight CD-ROM:
 * [29021806.PDF](./29021806.PDF)
+
+Linux kernel supported (as `lp486e`) this chip until version 3.7 and it was
+removed in commit [5205939d0f15803cc402e32ac5b886dbb7c50b99](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=5205939d0f15803cc402e32ac5b886dbb7c50b99).
