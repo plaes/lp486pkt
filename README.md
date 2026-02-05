@@ -1,7 +1,8 @@
-lp486pkt - Packet Driver for Intel i82596
-=========================================
+lp486pkt - MS-DOS Packet Driver for Intel i82596
+================================================
 
-Packet Driver for Intel Professional Workstation's On-board Ethernet Controller.
+Known machines featuring this controller:
+* Intel Professional Workstation LP486SX/20E (PBA 515338)
 
 82596CA High-Performance 32-Bit Local Area Network Coprocessor
 --------------------------------------------------------------
